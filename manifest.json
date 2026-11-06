@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "epoch": "2026-W45",
+  "blobs": [
+    {
+      "aud": "20a4918e5ecab8d9",
+      "path": "20a4918e5ecab8d9/2026-W45.age",
+      "size": 131288,
+      "sha256": "808bea77b67bc86aa78d6692b020ff4f93131e17ca700c3b2343e1edeeaf8a2b"
+    },
+    {
+      "aud": "a60439a0539db6c4",
+      "path": "a60439a0539db6c4/2026-W45.age",
+      "size": 131288,
+      "sha256": "f83d93d105e4ddd5e4c5cc66187e9f013077163aef6341308e3478f7465e506b"
+    },
+    {
+      "aud": "bf99416f151b50e0",
+      "path": "bf99416f151b50e0/2026-W45.age",
+      "size": 131288,
+      "sha256": "630e35fd42dfe4033d5d72ee0e14d7fd99c790d8e203e7cafdcdce9f8834ea24"
+    },
+    {
+      "aud": "ccf26067c23f60d7",
+      "path": "ccf26067c23f60d7/2026-W45.age",
+      "size": 131288,
+      "sha256": "d8fb72dccd0df91b59ba80feaba0bec0f54d069adfc3c98511432944ceae0a18"
+    },
+    {
+      "aud": "ea2ad0515990134e",
+      "path": "ea2ad0515990134e/2026-W45.age",
+      "size": 131288,
+      "sha256": "462216cf5dfdec43e1be71afd07897f888ccd1b78feb2a1dc5e6a62356f9fb92"
+    }
+  ]
+}
